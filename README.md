@@ -13,6 +13,6 @@
   2. Vote Route
   
 ### The Data Layer Contains:
-  A data access file nameed, data.js
+  A data access file named, data.js
   
   #### -Submitted By: Shatakshi Modi (202012111)
