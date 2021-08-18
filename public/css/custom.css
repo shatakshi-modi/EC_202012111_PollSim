@@ -1,0 +1,13 @@
+a {
+	text-decoration: none;
+}
+
+.menu-list > li {
+	text-align: center;
+	justify-content: center;
+}
+
+.menu-list > li > a {
+	text-align: center;
+	width: 100%;
+}
